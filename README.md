@@ -9,10 +9,6 @@
 # Mô tả chung
 Game thuộc dạng bắn súng tọa độ 2 người, bằng cách căn lực và góc theo vị trí và hướng gió. 
 
-- Ngày bắt đầu: Mar 21, 2022
-
-- Ngày kết thúc: 
-
 </br>
 
 # Cài đặt
