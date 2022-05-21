@@ -9,7 +9,7 @@
 
 const int SCREEN_WIDTH = 1280;
 const int SCREEN_HEIGHT = 720;
-const std::string WINDOW_TITLE = "AdvProg";
+const std::string WINDOW_TITLE = "GunBound";
 
 const int widthCharacter = 120;
 const int heightCharacter = 160;

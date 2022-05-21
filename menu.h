@@ -63,6 +63,7 @@ Menu::Menu()
 
     Mix_OpenAudio(44100, MIX_DEFAULT_FORMAT, 2, 2048);
     gMusic = Mix_LoadMUS("sound/music.wav");
+     Mix_VolumeMusic(MIX_MAX_VOLUME/4);
     Mix_PlayMusic(gMusic, -1);
 }
 
